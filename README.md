@@ -63,9 +63,10 @@ O CatBoost foi o modelo mais consistente para este problema, apresentando o melh
 
 ## 📁 Estrutura
 
-├── notebook/
-│   └── Teste Avaliação de Risco de Crédito (Porto Seguro).ipynb
-├── README.md
+
+	├── notebook/
+ 	 └── Teste Avaliação de Risco de Crédito (Porto Seguro).ipynb 
+	├── README.md
 
 
 ⸻
