@@ -1,6 +1,6 @@
 # 🚗 Avaliação de Risco de Crédito — Porto Seguro
 
-📌 Visão geral
+## 📌 Visão geral
 
 Este projeto tem como objetivo estimar a probabilidade de um motorista se envolver em um sinistro de seguro auto, utilizando técnicas de Machine Learning aplicadas à classificação de risco.
 
@@ -8,14 +8,14 @@ O estudo utiliza dados públicos da competição Safe Driver Prediction, promovi
 
 ⸻
 
-🎯 Objetivo
+## 🎯 Objetivo
 	•	Construir um pipeline completo de Ciência de Dados
 	•	Avaliar diferentes modelos de classificação
 	•	Maximizar a métrica ROC AUC, critério oficial da competição
 
 ⸻
 
-🗂️ Dados
+## 🗂️ Dados
 	•	Fonte: Kaggle — Safe Driver Prediction
 	•	Observações: 595.212
 	•	Features: 59 variáveis numéricas
@@ -24,7 +24,7 @@ O estudo utiliza dados públicos da competição Safe Driver Prediction, promovi
 
 ⸻
 
-🔍 Metodologia
+## 🔍 Metodologia
 	•	Conversão de valores ausentes (-1 → NaN)
 	•	Remoção de features com alta taxa de ausência
 	•	Imputação pela média (calculada apenas no treino)
