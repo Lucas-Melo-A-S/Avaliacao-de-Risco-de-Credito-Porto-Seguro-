@@ -34,7 +34,7 @@ O estudo utiliza dados públicos da competição Safe Driver Prediction, promovi
 
 ⸻
 
-🤖 Modelos avaliados
+## 🤖 Modelos avaliados
 	•	Regressão Logística (baseline)
 	•	Random Forest
 	•	XGBoost
@@ -45,7 +45,7 @@ Os modelos foram ajustados com GridSearch, utilizando ROC AUC como métrica prin
 
 ⸻
 
-📊 Resultados
+## 📊 Resultados
 	•	Random Forest apresentou forte overfitting
 	•	XGBoost e LightGBM mostraram boa estabilidade
 	•	CatBoost apresentou o melhor equilíbrio entre:
@@ -55,13 +55,13 @@ Os modelos foram ajustados com GridSearch, utilizando ROC AUC como métrica prin
 
 ⸻
 
-✅ Conclusão
+## ✅ Conclusão
 
 O CatBoost foi o modelo mais consistente para este problema, apresentando o melhor desempenho geral segundo o critério oficial da competição.
 
 ⸻
 
-📁 Estrutura
+## 📁 Estrutura
 
 ├── notebook/
 │   └── Teste Avaliação de Risco de Crédito (Porto Seguro).ipynb
@@ -70,7 +70,7 @@ O CatBoost foi o modelo mais consistente para este problema, apresentando o melh
 
 ⸻
 
-▶️ Execução
+## ▶️ Execução
 
 Clone o repositório e execute o notebook principal após instalar as dependências necessárias.
 
